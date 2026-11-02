@@ -1,0 +1,24 @@
+Name:
+Kavin Jain
+
+
+Class:
+1st year
+
+
+University:
+NST-RU
+
+Skills: 
+Python
+HTML
+
+Hobbies:
+Football
+Cricket
+Formula 1
+
+What I want ?
+one file - index.html
+Which contains html and css with full portfolio 
+
